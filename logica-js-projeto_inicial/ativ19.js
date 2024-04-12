@@ -1,0 +1,2 @@
+let numeroAleatorio = Math.random()*10 +1;                                                                                                                         
+console.log("Número aleatório gerado:", numeroAleatorio);

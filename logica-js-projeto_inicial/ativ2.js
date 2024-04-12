@@ -1,0 +1,1 @@
+let pessoaPalavra = quantidadePessoas < 2 ? "pessoa" : "pessoas"
